@@ -1,0 +1,12 @@
+.single-plan i{
+        display: inline-block;
+    font-size: 54px;
+    margin-bottom: 27px;
+        color: #009e66;
+}
+.line-t{
+    text-decoration: line-through
+}
+#portfolio .portfolio-section .portfolio-grid .portfolio-wrapper .item-content p{
+        color: #009e66;
+}
